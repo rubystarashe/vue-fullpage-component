@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/rubystarashe/vue-fullpage-component/issues"
   },
-  "homepage": "https://github.com/rubystarashe/vue-fullpage-component#readme"
+  "homepage": "https://github.com/rubystarashe/vue-fullpage-component#readme",
+  "dependencies": {
+    "smoothscroll-polyfill": "^0.4.3"
+  }
 }
