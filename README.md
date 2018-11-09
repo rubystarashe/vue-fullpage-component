@@ -3,6 +3,15 @@
 npm i vue-fullpage-component
 ```
 
+```js
+// nuxt.config.js
+module.exports = {
+  transpile: [
+    'vue-fullpage-component',
+  ]
+}
+```
+
 ```html
 <template>
 <fullpage :accuracy="20" :startAt="0" duration="200">
