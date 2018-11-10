@@ -1,6 +1,6 @@
 {
   "name": "vue-fullpage-component",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Vue.js fullpage component. light & simple usage",
   "main": "index.js",
   "scripts": {

@@ -233,6 +233,7 @@ export default {
 
 <style>
 .fullpage_section {
+  position: fixed;
   overflow: hidden;
   height: 100%;
   width: 100%;
